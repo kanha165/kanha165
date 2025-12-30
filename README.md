@@ -27,25 +27,48 @@ I have hands-on experience building **end-to-end ML projects** including classif
 ## 🧠 Tech Stack
 
 ### 🧑‍💻 Languages & Core
+
+<p align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+&nbsp;&nbsp;&nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+&nbsp;&nbsp;&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+
+</p>
 
 ---
 
 ### 🤖 Machine Learning & AI
+
+<p align="center">
+
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+&nbsp;&nbsp;&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+&nbsp;&nbsp;&nbsp;
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+&nbsp;&nbsp;&nbsp;
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+</p>
 
 ---
 
 ### 🚀 Tools & Frameworks
+
+<p align="center">
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+&nbsp;&nbsp;&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+&nbsp;&nbsp;&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+&nbsp;&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</p>
 
 ---
 
@@ -57,7 +80,6 @@ I have hands-on experience building **end-to-end ML projects** including classif
 - 📧 **Spam Email Classifier** – Naive Bayes based text classification  
 
 👉 Check pinned repositories for detailed documentation & code.
-
 
 ---
 
@@ -76,7 +98,6 @@ I have hands-on experience building **end-to-end ML projects** including classif
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kanha_patidar_1)
 
 </p>
-
 
 ---
 
