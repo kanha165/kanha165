@@ -62,10 +62,7 @@ I have hands-on experience building **end-to-end ML projects** including classif
 ---
 
 ## 🌐 Connect With Me
-
-- 💻 GitHub: https://github.com/kanha165  
-- 🔗 LinkedIn: https://www.linkedin.com/in/kanha-patidar-837421290/  
-- 📧 Email: kanhapatidar7251@gmail.com
+<p align="center"> <a href="https://github.com/kanha165" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/kanha-patidar-837421290/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:kanhapatidar7251@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 
 ---
 
