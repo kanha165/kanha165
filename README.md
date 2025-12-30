@@ -65,9 +65,9 @@ I have hands-on experience building **end-to-end ML projects** including classif
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=kanha165&show_icons=true&theme=tokyonight"
-  />
+  
+  <img src="https://streak-stats.demolab.com?user=kanha165&theme=tokyonight" />
+
 </p>
 
 
