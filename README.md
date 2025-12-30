@@ -60,7 +60,7 @@ I have hands-on experience building **end-to-end ML projects** including classif
 
 ---
 
-## 📊 GitHub Stats
+
 
 ## 📊 GitHub Stats
 
