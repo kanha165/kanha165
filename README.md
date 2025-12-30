@@ -58,18 +58,6 @@ I have hands-on experience building **end-to-end ML projects** including classif
 
 👉 Check pinned repositories for detailed documentation & code.
 
----
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  
-  <img src="https://streak-stats.demolab.com?user=kanha165&theme=tokyonight" />
-
-</p>
-
 
 ---
 
