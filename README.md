@@ -62,13 +62,22 @@ I have hands-on experience building **end-to-end ML projects** including classif
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanha165&show_icons=true&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=kanha165&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanha165&theme=tokyonight" />
+  <img 
+    src="https://github-readme-streak-stats.vercel.app?user=kanha165&theme=tokyonight"
+    height="165"
+  />
 </p>
+
 
 ---
 
