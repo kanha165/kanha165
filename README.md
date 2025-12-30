@@ -65,7 +65,7 @@ I have hands-on experience building **end-to-end ML projects** including classif
 
 - 💻 GitHub: https://github.com/kanha165  
 - 🔗 LinkedIn: https://www.linkedin.com/in/kanha-patidar-837421290/  
-- 📧 Email: kanhapatidar165@gmail.com
+- 📧 Email: kanhapatidar7251@gmail.com
 
 ---
 
