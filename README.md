@@ -62,7 +62,6 @@ I have hands-on experience building **end-to-end ML projects** including classif
 ---
 
 ## 🌐 Connect With Me
-## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/kanha165" target="_blank">
