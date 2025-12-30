@@ -62,27 +62,34 @@ I have hands-on experience building **end-to-end ML projects** including classif
 ---
 
 ## 🌐 Connect With Me
-<<p align="center">
-  <a href="https://github.com/kanha165" target="_blank" style="margin-right: 15px;">
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/kanha165" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/kanha-patidar-837421290/" target="_blank" style="margin-right: 15px;">
+  <a href="https://www.linkedin.com/in/kanha-patidar-837421290/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:kanhapatidar7251@gmail.com" style="margin-right: 15px;">
+  <a href="mailto:kanhapatidar7251@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.instagram.com/YOUR_USERNAME" target="_blank" style="margin-right: 15px;">
+  <a href="https://www.instagram.com/kanha_patidar_321" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
 
-  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+  <a href="https://twitter.com/@kanha_patidar_1" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
