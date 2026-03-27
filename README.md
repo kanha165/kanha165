@@ -76,18 +76,21 @@ I have hands-on experience building **end-to-end ML projects** including classif
 
 🔹 **AI Fake News Detection System**
 → NLP-based classification using ML techniques
+
 👉 Live Demo: https://ai-fake-news-detection-system-1-rtqy.onrender.com/
 
 ---
 
 🔹 **Voice Emotion Detection App**
 → Detect emotions from speech using ML models
+
 👉 Live Demo: https://voice-emotion-detection-app.onrender.com
 
 ---
 
 🔹 **E-commerce Sales Analytics Dashboard**
 → Data visualization & business insights dashboard
+
 👉 Live Demo: https://ecommerce-sales-analytics-dashboard.onrender.com/
 
 ---
