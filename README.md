@@ -89,9 +89,8 @@
 ## 🚀 Featured Projects  
 
 <a href="https://github.com/kanha165/ai-fake-news-detection-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanha165&repo=ai-fake-news-detection-system&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanha165&repo=ai-fake-news-detection-system&theme=radical&cache_seconds=1800" />
 </a>
-
 
 ---
 
