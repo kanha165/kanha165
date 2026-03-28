@@ -85,7 +85,9 @@
 
 ## 📈 Contribution Graph
 
-![Snake animation](https://github.com/kanha165/kanha165/blob/output/github-contribution-grid-snake.svg)
+### Recent Activity (Last 30 Days)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kanha165&theme=github-dark&days=30)
 
 
 
