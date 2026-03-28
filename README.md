@@ -86,10 +86,10 @@
 - ⚡ Fast & lightweight model  
 
 
-## 🚀 Project Cards  
+## 🚀 Featured Projects  
 
-<a href="https://github.com/kanha165/AI-Fake-News-Detection-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanha165&repo=AI-Fake-News-Detection-System&theme=radical" />
+<a href="https://github.com/kanha165/ai-fake-news-detection-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanha165&repo=ai-fake-news-detection-system&theme=radical" />
 </a>
 
 
