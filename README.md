@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kanha Patidar</h1>
+<h1 align="center">Hi , I'm Kanha Patidar</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&color=36BCF7&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Machine+Learning+Enthusiast;Python+Developer;Building+Real-World+AI+Projects🚀" />
@@ -55,18 +55,21 @@
 
 🔹 **AI Fake News Detection System**
 → NLP-based classification using Machine Learning
+
 👉 https://ai-fake-news-detection-system-1-rtqy.onrender.com/
 
 ---
 
 🔹 **Voice Emotion Detection App**
 → Emotion detection from speech using ML models
+
 👉 https://voice-emotion-detection-app.onrender.com
 
 ---
 
 🔹 **E-commerce Sales Analytics Dashboard**
 → Business insights using data visualization
+
 👉 https://ecommerce-sales-analytics-dashboard.onrender.com/
 
 ---
@@ -83,9 +86,8 @@
 
 ---
 
-## 📈 Contribution Graph
 
-### Recent Activity (Last 30 Days)
+## Recent Activity (Last 30 Days)
 
 
 
