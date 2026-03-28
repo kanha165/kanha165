@@ -91,6 +91,10 @@
 
 
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kanha165&theme=react-dark&days=30)
+
+
+
 ---
 
 ## 🧠 Currently Learning
