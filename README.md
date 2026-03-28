@@ -48,31 +48,49 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 
-## 🚀 Featured Projects
-
-🔹 **AI Fake News Detection System**
-→ NLP-based classification using Machine Learning
-
-👉 https://ai-fake-news-detection-system-1-rtqy.onrender.com/
+## 🚀 Featured Projects  
 
 ---
 
-🔹 **Voice Emotion Detection App**
-→ Emotion detection from speech using ML models
+### 📰 AI Fake News Detection System  
+> NLP-based ML model to classify real vs fake news  
 
-👉 https://voice-emotion-detection-app.onrender.com
-
----
-
-🔹 **E-commerce Sales Analytics Dashboard**
-→ Business insights using data visualization
-
-👉 https://ecommerce-sales-analytics-dashboard.onrender.com/
+- 🔧 Tech: Python, NLP, Scikit-learn  
+- 📊 Accuracy: High-performing classification model  
+- 🌐 Live: https://ai-fake-news-detection-system-1-rtqy.onrender.com/  
 
 ---
 
-🔹 **Spam Email Classifier**
-→ Naive Bayes-based NLP classification
+### 🎙️ Voice Emotion Detection App  
+> Detects human emotions from voice using ML  
+
+- 🔧 Tech: Python, Audio Processing, ML  
+- 🎯 Use Case: Emotion-aware applications  
+- 🌐 Live: https://voice-emotion-detection-app.onrender.com  
+
+---
+
+### 📊 E-commerce Sales Analytics Dashboard  
+> Interactive dashboard for business insights  
+
+- 🔧 Tech: Pandas, Matplotlib, Streamlit  
+- 📈 Features: Data visualization & trends  
+- 🌐 Live: https://ecommerce-sales-analytics-dashboard.onrender.com/  
+
+---
+
+### 📧 Spam Email Classifier  
+> Classifies spam vs non-spam emails using ML  
+
+- 🔧 Tech: Naive Bayes, NLP  
+- ⚡ Fast & lightweight model  
+
+## 🚀 Project Cards  
+
+<a href="https://github.com/kanha165">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanha165&repo=your-repo-name&theme=radical" />
+</a>
+
 
 ---
 
