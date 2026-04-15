@@ -28,6 +28,7 @@
 
 ## ⚡ Tech Stack  
 
+### 🧑‍💻 Languages  
 <table align="center">
   <tr>
     <td align="center" width="100">
@@ -38,12 +39,13 @@
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" height="60"/>
       <br>SQL
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/>
-      <br>Git
-    </td>
   </tr>
+</table>
 
+<br>
+
+### 🤖 AI / ML  
+<table align="center">
   <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50"/>
@@ -64,32 +66,40 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/>
       <br>Matplotlib
     </td>
+  </tr>
+</table>
+
+<br>
+
+### 🚀 Tools & Frameworks  
+<table align="center">
+  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50"/>
       <br>FastAPI
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=streamlit" width="50" height="50"/>
+      <!-- FIXED Streamlit icon -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" height="50"/>
       <br>Streamlit
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
+      <br>Jupyter
     </td>
   </tr>
 
   <tr>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
-      <br>Jupyter
+      <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/>
+      <br>Git
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=github" width="50" height="50"/>
       <br>GitHub
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=python" width="50" height="50"/>
-      <br>ML Projects
-    </td>
   </tr>
 </table>
-
 
 ## 🚀 Featured Projects  
 
