@@ -144,11 +144,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanha165&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kanha165&show_icons=true&theme=radical&hide=cpp,c%2B%2B" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=kanha165&theme=dark&hide_border=true" width="48%" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kanha165&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanha165&layout=compact&theme=radical&hide=cpp,c%2B%2B" width="50%" />
 </p>
 ---
 
