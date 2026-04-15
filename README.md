@@ -31,12 +31,16 @@
 ### 🧑‍💻 Languages  
 <table align="center">
   <tr>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60"/>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55"/>
       <br>Python
     </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" height="60"/>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55"/>
+      <br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55"/>
       <br>SQL
     </td>
   </tr>
@@ -47,24 +51,26 @@
 ### 🤖 AI / ML  
 <table align="center">
   <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50"/>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="50"/>
       <br>Scikit-Learn
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
       <br>Pandas
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
       <br>NumPy
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
       <br>Matplotlib
+    </td>
+    <td align="center" width="90">
+      <!-- Seaborn added -->
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/>
+      <br>Seaborn
     </td>
   </tr>
 </table>
@@ -74,28 +80,24 @@
 ### 🚀 Tools & Frameworks  
 <table align="center">
   <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50"/>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="50"/>
       <br>FastAPI
     </td>
-    <td align="center" width="100">
-      <!-- FIXED Streamlit icon -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" height="50"/>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50"/>
       <br>Streamlit
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
       <br>Jupyter
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="50"/>
       <br>Git
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=github" width="50" height="50"/>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" width="50"/>
       <br>GitHub
     </td>
   </tr>
