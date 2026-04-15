@@ -183,13 +183,15 @@
 
 <p align="center">
   <a href="https://github.com/kanha165">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github" height="55"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kanha-patidar-837421290/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:kanhapatidar7251@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
   </a>
 </p>
 
