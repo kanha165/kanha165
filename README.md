@@ -24,29 +24,37 @@
 ---
 
 
+---
+
 ## ⚡ Tech Stack  
 
 ### 🧑‍💻 Languages  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql&perline=6" />
 </p>
 
----
+<br>
 
 ### 🤖 AI / ML  
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=sklearn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
 </p>
 
----
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" />
+</p>
+
+<br>
 
 ### 🚀 Tools & Frameworks  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,git&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" />
 </p>
 
 ## 🚀 Featured Projects  
