@@ -191,9 +191,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:kanhapatidar7251@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&l
 
 ---
 
