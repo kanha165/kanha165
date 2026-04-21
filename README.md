@@ -12,7 +12,7 @@
   B.Tech CSIT @ RGPV University | Focused on AI, ML & Backend Systems
 </p>
 
---
+---
 
 ## 🧠 About Me
 
