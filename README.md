@@ -135,10 +135,6 @@
 <br>ChromaDB
 </td>
 
-<td align="center" width="100">
-<img src="https://cdn.simpleicons.org/langchain" width="50"/>
-<br>RAG
-</td>
 
 </tr>
 </table>
