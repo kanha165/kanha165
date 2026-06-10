@@ -26,24 +26,26 @@
 
 ---
 
-## ⚡ Tech Stack  
+## ⚡ Tech Stack
 
-### 🧑‍💻 Languages  
+### 🧑‍💻 Languages
 <table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55"/>
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55"/>
-      <br>C++
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55"/>
-      <br>SQL
-    </td>
-  </tr>
+<tr>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="55"/>
+<br>Python
+</td>
+
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55"/>
+<br>C++
+</td>
+
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55"/>
+<br>SQL
+</td>
+</tr>
 </table>
 
 <br>
@@ -51,116 +53,134 @@
 ### 🤖 AI / ML
 
 <table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=sklearn" width="50"/>
-      <br>Scikit-Learn
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
-      <br>TensorFlow
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
-      <br>PyTorch
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-      <br>Pandas
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
-      <br>NumPy
-    </td>
-  </tr>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=sklearn" width="50"/>
+<br>Scikit-Learn
+</td>
 
-  <tr>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
-      <br>Matplotlib
-    </td>
-    <td align="center" width="90">
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/>
-      <br>Seaborn
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opencv.svg" width="50"/>
-      <br>OpenCV
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/keras" width="50"/>
-      <br>Keras
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/jupyter" width="50"/>
-      <br>NLP
-    </td>
-  </tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50"/>
+<br>TensorFlow
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+<br>Pandas
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+<br>NumPy
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
+<br>Matplotlib
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/>
+<br>Seaborn
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/keras" width="50"/>
+<br>Keras
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/opencv" width="50"/>
+<br>OpenCV
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/jupyter" width="50"/>
+<br>NLP
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/python" width="50"/>
+<br>Deep Learning
+</td>
+</tr>
 </table>
 
+<br>
 
 ### 🧠 Generative AI & LLMs
 
 <table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/googlegemini" width="50"/>
-      <br>Gemini API
-    </td>
+<tr>
 
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/x" width="50"/>
-      <br>Grok API
-    </td>
+<td align="center" width="100">
+<img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" width="50"/>
+<br>Gemini API
+</td>
 
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/langchain" width="50"/>
-      <br>LangChain
-    </td>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/huggingface" width="50"/>
+<br>Hugging Face
+</td>
 
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/huggingface" width="50"/>
-      <br>Hugging Face
-    </td>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/langchain" width="50"/>
+<br>LangChain
+</td>
 
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/chroma" width="50"/>
-      <br>ChromaDB
-    </td>
-  </tr>
+<td align="center" width="100">
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="50"/>
+<br>ChromaDB
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/python" width="50"/>
+<br>RAG
+</td>
+
+</tr>
 </table>
 
+<br>
 
+### 🚀 Tools & Frameworks
 
-
-### 🚀 Tools & Frameworks  
 <table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="50"/>
-      <br>FastAPI
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50"/>
-      <br>Streamlit
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
-      <br>Jupyter
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="50"/>
-      <br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github" width="50"/>
-      <br>GitHub
-    </td>
-    <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
-  <br>VS Code
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=fastapi" width="50"/>
+<br>FastAPI
 </td>
-  </tr>
+
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50"/>
+<br>Streamlit
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
+<br>Jupyter
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="50"/>
+<br>Git
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<br>GitHub
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+<br>VS Code
+</td>
+
+</tr>
 </table>
 
 ## 🚀 Featured Projects  
