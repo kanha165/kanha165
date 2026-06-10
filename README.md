@@ -98,10 +98,12 @@
   </tr>
 </table>
 
+
 ### 🧠 Generative AI & LLMs
 
 <table align="center">
   <tr>
+
     <td align="center" width="90">
       <img src="https://cdn.simpleicons.org/googlegemini" width="50"/>
       <br>Gemini API
@@ -126,8 +128,10 @@
       <img src="https://cdn.simpleicons.org/chroma" width="50"/>
       <br>ChromaDB
     </td>
+
   </tr>
 </table>
+
 
 ### 🚀 Tools & Frameworks  
 <table align="center">
