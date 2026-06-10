@@ -99,27 +99,32 @@
 </table>
 
 ### 🧠 Generative AI & LLMs
+
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/openai" width="50"/>
-      <br>OpenAI API
+      <img src="https://cdn.simpleicons.org/googlegemini" width="50"/>
+      <br>Gemini API
     </td>
+
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/x" width="50"/>
+      <br>Grok API
+    </td>
+
     <td align="center" width="90">
       <img src="https://cdn.simpleicons.org/langchain" width="50"/>
       <br>LangChain
     </td>
+
     <td align="center" width="90">
       <img src="https://cdn.simpleicons.org/huggingface" width="50"/>
       <br>Hugging Face
     </td>
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/pytorch" width="50"/>
-      <br>Transformers
-    </td>
+
     <td align="center" width="90">
       <img src="https://cdn.simpleicons.org/chroma" width="50"/>
-      <br>Vector DB
+      <br>ChromaDB
     </td>
   </tr>
 </table>
