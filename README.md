@@ -72,6 +72,21 @@
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/>
       <br>Seaborn
     </td>
+
+    <td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/>
+  <br>TensorFlow
+</td>
+
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=docker" width="50"/>
+  <br>Docker
+</td>
+
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+  <br>VS Code
+</td>
   </tr>
 </table>
 
