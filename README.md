@@ -53,62 +53,59 @@
 ### 🤖 AI / ML
 
 <table align="center">
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=sklearn" width="50"/>
-<br>Scikit-Learn
-</td>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="50"/>
+      <br>Scikit-Learn
+    </td>
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="50"/>
-<br>TensorFlow
-</td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/>
+      <br>TensorFlow
+    </td>
 
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-<br>Pandas
-</td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+      <br>Pandas
+    </td>
 
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
-<br>NumPy
-</td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+      <br>NumPy
+    </td>
 
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
-<br>Matplotlib
-</td>
-</tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
+      <br>Matplotlib
+    </td>
+  </tr>
 
-<tr>
-<td align="center" width="100">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/>
-<br>Seaborn
-</td>
+  <tr>
+    <td></td>
 
-<td align="center" width="100">
-<img src="https://cdn.simpleicons.org/keras" width="50"/>
-<br>Keras
-</td>
+    <td align="center" width="90">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/>
+      <br>Seaborn
+    </td>
 
-<td align="center" width="100">
-<img src="https://cdn.simpleicons.org/opencv" width="50"/>
-<br>OpenCV
-</td>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/keras" width="50"/>
+      <br>Keras
+    </td>
 
-<td align="center" width="100">
-<img src="https://cdn.simpleicons.org/jupyter" width="50"/>
-<br>NLP
-</td>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/opencv" width="50"/>
+      <br>OpenCV
+    </td>
 
-<td align="center" width="100">
-<img src="https://cdn.simpleicons.org/python" width="50"/>
-<br>Deep Learning
-</td>
-</tr>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/jupyter" width="50"/>
+      <br>NLP
+    </td>
+
+    <td></td>
+  </tr>
 </table>
-
-<br>
 
 ### 🧠 Generative AI & LLMs
 
