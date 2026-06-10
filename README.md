@@ -29,7 +29,6 @@
 ## ⚡ Tech Stack
 
 ### 🧑‍💻 Languages
-
 <table align="center">
 <tr>
 <td align="center" width="100">
@@ -55,56 +54,57 @@
 
 <table align="center">
 <tr>
-<td align="center" width="90">
+<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=sklearn" width="50"/>
 <br>Scikit-Learn
 </td>
 
-<td align="center" width="90">
+<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/>
 <br>TensorFlow
 </td>
 
-<td align="center" width="90">
+<td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
 <br>Pandas
 </td>
 
-<td align="center" width="90">
+<td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
 <br>NumPy
 </td>
 
-<td align="center" width="90">
+<td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
 <br>Matplotlib
 </td>
 </tr>
 
 <tr>
-<td></td>
-
-<td align="center" width="90">
+<td align="center" width="100">
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/>
 <br>Seaborn
 </td>
 
-<td align="center" width="90">
+<td align="center" width="100">
 <img src="https://cdn.simpleicons.org/keras" width="50"/>
 <br>Keras
 </td>
 
-<td align="center" width="90">
+<td align="center" width="100">
 <img src="https://cdn.simpleicons.org/opencv" width="50"/>
 <br>OpenCV
 </td>
 
-<td align="center" width="90">
+<td align="center" width="100">
 <img src="https://cdn.simpleicons.org/jupyter" width="50"/>
 <br>NLP
 </td>
 
-<td></td>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/python" width="50"/>
+<br>Deep Learning
+</td>
 </tr>
 </table>
 
@@ -133,6 +133,11 @@
 <td align="center" width="100">
 <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="50"/>
 <br>ChromaDB
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/python" width="50"/>
+<br>RAG
 </td>
 
 </tr>
