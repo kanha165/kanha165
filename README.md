@@ -116,7 +116,7 @@
 <tr>
 
 <td align="center" width="100">
-<img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" width="50"/>
+<img src="https://cdn.simpleicons.org/googlegemini" width="50"/>
 <br>Gemini API
 </td>
 
@@ -136,7 +136,7 @@
 </td>
 
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/python" width="50"/>
+<img src="https://cdn.simpleicons.org/langchain" width="50"/>
 <br>RAG
 </td>
 
