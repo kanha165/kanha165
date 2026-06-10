@@ -147,6 +147,10 @@
       <img src="https://skillicons.dev/icons?i=github" width="50"/>
       <br>GitHub
     </td>
+    <td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+  <br>VS Code
+</td>
   </tr>
 </table>
 
