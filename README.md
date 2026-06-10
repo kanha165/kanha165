@@ -179,7 +179,16 @@
 > Classifies spam vs non-spam emails using ML  
 
 - 🔧 Tech: Naive Bayes, NLP  
-- ⚡ Fast & lightweight model  
+- ⚡ Fast & lightweight model
+- 
+
+### 🤖 AI Sentiment Analysis System
+> Deep Learning based sentiment analysis on 1.6M+ tweets
+
+- 🔧 Tech: Python, TensorFlow, BiLSTM, FastAPI
+- 📊 Dataset: 1.6 Million Twitter/X Tweets
+- 🎯 Predicts Positive & Negative Sentiments
+- 🚀 End-to-End AI Application
 
 
 ## 📊 GitHub Stats
@@ -205,10 +214,11 @@
 
 ## 🧠 Currently Learning
 
-* Generative AI & LLMs
-* FastAPI & Backend Systems
-* Model Deployment
-* Data Structures & Algorithms
+* Generative AI & Large Language Models (LLMs)
+* LangChain & AI Agents
+* Vector Databases (FAISS, ChromaDB)
+* Model Deployment & MLOps
+* Advanced FastAPI
 
 ---
 
