@@ -48,12 +48,21 @@
 
 <br>
 
-### 🤖 AI / ML  
+### 🤖 AI / ML
+
 <table align="center">
   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=sklearn" width="50"/>
       <br>Scikit-Learn
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
+      <br>PyTorch
     </td>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
@@ -63,34 +72,31 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
       <br>NumPy
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
       <br>Matplotlib
     </td>
     <td align="center" width="90">
-      <!-- Seaborn added -->
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/>
       <br>Seaborn
     </td>
-
     <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/>
-  <br>TensorFlow
-</td>
-
-<td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=docker" width="50"/>
-  <br>Docker
-</td>
-
-<td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
-  <br>VS Code
-</td>
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opencv.svg" width="50"/>
+      <br>OpenCV
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/keras" width="50"/>
+      <br>Keras
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/jupyter" width="50"/>
+      <br>NLP
+    </td>
   </tr>
 </table>
-
-<br>
 
 ### 🧠 Generative AI & LLMs
 <table align="center">
@@ -155,14 +161,6 @@
 - 📊 Accuracy: High-performing classification model  
 - 🌐 Live: https://ai-fake-news-detection-system-1-rtqy.onrender.com/  
 
----
-
-### 🎙️ Voice Emotion Detection App  
-> Detects human emotions from voice using ML  
-
-- 🔧 Tech: Python, Audio Processing, ML  
-- 🎯 Use Case: Emotion-aware applications  
-- 🌐 Live: https://voice-emotion-detection-app.onrender.com  
 
 ---
 
@@ -171,16 +169,12 @@
 
 - 🔧 Tech: Pandas, Matplotlib, Streamlit  
 - 📈 Features: Data visualization & trends  
-- 🌐 Live: https://ecommerce-sales-analytics-dashboard.onrender.com/  
+- 🌐 Live: https://ecommerce-sales-analytics-dashboard.onrender.com/
 
----
 
-### 📧 Spam Email Classifier  
-> Classifies spam vs non-spam emails using ML  
 
-- 🔧 Tech: Naive Bayes, NLP  
-- ⚡ Fast & lightweight model
-- 
+
+--- 
 
 ### 🤖 AI Sentiment Analysis System
 > Deep Learning based sentiment analysis on 1.6M+ tweets
@@ -224,10 +218,10 @@
 
 ## 🎯 Goals
 
-* Become Job-Ready AI/ML Engineer
-* Build Strong AI Project Portfolio
-* Improve Problem Solving Skills
-
+* Become a Generative AI Engineer
+* Build Production-Ready AI Systems
+* Contribute to Open Source AI Projects
+* Secure AI/ML Engineer Internship & Full-Time Role
 ---
 
 ## 🌐 Connect With Me
