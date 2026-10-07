@@ -266,12 +266,14 @@
 ---
 
 
-## Recent Activity (Last 30 Days)
 
 
 
+## 📈 Recent Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kanha165&theme=react-dark&days=30)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanha165&theme=react-dark&hide_border=true&area=true" width="95%" />
+</p>
 
 
 
@@ -279,11 +281,11 @@
 
 ## 🧠 Currently Learning
 
-* Generative AI & Large Language Models (LLMs)
-* LangChain & AI Agents
-* Vector Databases (FAISS, ChromaDB)
-* Model Deployment & MLOps
-* Advanced FastAPI
+* Advanced Agentic AI & Multi-Agent Systems
+* MCP & Advanced Tool Calling
+* LLM / RAG Evaluation
+* AI Observability & LLMOps
+* Advanced Multimodal AI
 
 ---
 
@@ -302,7 +304,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kanha-patidar-837421290/">
+  <a href="www.linkedin.com/in/kanha-patidar-17281a434/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;&nbsp;
