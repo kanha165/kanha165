@@ -268,19 +268,6 @@
 
 
 
-
-## 📈 Recent Activity (Last 30 Days)
-
-<p align="center">
-  <img
-    src="https://github-readme-insight-terminal-ascii.vercel.app/svg?user=kanha165&theme=github"
-    alt="GitHub Activity Graph"
-    width="95%"
-  />
-</p>
-
-
-
 ---
 
 ## 🧠 Currently Learning
