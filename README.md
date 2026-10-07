@@ -114,6 +114,7 @@
 <br>
 
 <br>
+<br>
 
 ### 🧠 Generative AI & LLMs
 
@@ -141,8 +142,8 @@
 </td>
 
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/python" width="50"/>
-<br>RAG
+<img src="https://cdn.simpleicons.org/langgraph" width="50"/>
+<br>LangGraph
 </td>
 
 </tr>
@@ -150,27 +151,27 @@
 <tr>
 
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/langgraph.svg" width="50"/>
-<br>LangGraph
-</td>
-
-<td align="center" width="100">
 <img src="https://cdn.simpleicons.org/openai" width="50"/>
 <br>LLMs
 </td>
 
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/robotframework" width="50"/>
+<img src="https://cdn.simpleicons.org/python" width="50"/>
+<br>RAG
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/python" width="50"/>
 <br>AI Agents
 </td>
 
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/google" width="50"/>
+<img src="https://cdn.simpleicons.org/python" width="50"/>
 <br>Agentic AI
 </td>
 
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/mcp-model-context-protocol.svg" width="50"/>
+<img src="https://cdn.simpleicons.org/modelcontextprotocol" width="50"/>
 <br>MCP
 </td>
 
