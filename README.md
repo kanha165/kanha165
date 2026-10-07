@@ -140,9 +140,95 @@
 </td>
 
 </tr>
+
+<tr>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/langgraph" width="50"/>
+<br>LangGraph
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/openai" width="50"/>
+<br>LLMs
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/mcp" width="50"/>
+<br>MCP
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/robotframework" width="50"/>
+<br>AI Agents
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/google" width="50"/>
+<br>Agentic AI
+</td>
+
+</tr>
 </table>
 
 <br>
+
+### 🚀 Tools, Cloud & CI/CD
+
+<table align="center">
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=fastapi" width="50"/>
+<br>FastAPI
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50"/>
+<br>Streamlit
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
+<br>Jupyter
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="50"/>
+<br>Git
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<br>GitHub
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=aws" width="50"/>
+<br>AWS
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=githubactions" width="50"/>
+<br>GitHub Actions
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/amazonaws" width="50"/>
+<br>EC2
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/python" width="50"/>
+<br>CI/CD
+</td>
+
+</tr>
+</table>
 
 ### 🚀 Tools & Frameworks
 
