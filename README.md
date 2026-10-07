@@ -160,20 +160,7 @@
 <br>RAG
 </td>
 
-<td align="center" width="100">
-<img src="https://cdn.simpleicons.org/python" width="50"/>
-<br>AI Agents
-</td>
 
-<td align="center" width="100">
-<img src="https://cdn.simpleicons.org/python" width="50"/>
-<br>Agentic AI
-</td>
-
-<td align="center" width="100">
-<img src="https://cdn.simpleicons.org/modelcontextprotocol" width="50"/>
-<br>MCP
-</td>
 
 </tr>
 </table>
