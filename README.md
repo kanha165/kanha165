@@ -53,6 +53,7 @@
 
 <table align="center">
 <tr>
+
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=sklearn" width="50"/>
 <br>Scikit-Learn
@@ -77,9 +78,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
 <br>Matplotlib
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center" width="100">
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/>
 <br>Seaborn
@@ -96,7 +99,7 @@
 </td>
 
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/jupyter" width="50"/>
+<img src="https://cdn.simpleicons.org/python" width="50"/>
 <br>NLP
 </td>
 
@@ -104,6 +107,7 @@
 <img src="https://cdn.simpleicons.org/python" width="50"/>
 <br>Deep Learning
 </td>
+
 </tr>
 </table>
 
@@ -139,11 +143,34 @@
 <br>RAG
 </td>
 
+</tr>
+
+<tr>
+
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=langgraph" width="50"/>
 <br>LangGraph
 </td>
 
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/openai" width="50"/>
+<br>LLMs
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/python" width="50"/>
+<br>AI Agents
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/python" width="50"/>
+<br>Agentic AI
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/python" width="50"/>
+<br>MCP
+</td>
 
 </tr>
 </table>
@@ -183,6 +210,25 @@
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
 <br>VS Code
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=aws" width="50"/>
+<br>AWS EC2
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=githubactions" width="50"/>
+<br>GitHub Actions
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/githubactions" width="50"/>
+<br>CI/CD
 </td>
 
 </tr>
