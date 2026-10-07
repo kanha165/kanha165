@@ -1,15 +1,16 @@
-<h1 align="center">Hi, I'm Kanha Patidar</h1>
+<h1 align="center">Hi , I'm Kanha Patidar</h1>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=36BCF7&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Generative+AI+Engineer;Python+Developer;Building+Real-World+AI+Projects🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=36BCF7&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Machine+Learning+Enthusiast;Python+Developer;Building+Real-World+AI+Projects🚀" />
 </p>
 
 <p align="center">
-  <b>AI/ML | Generative AI | Python Developer | Backend Systems</b>
+  <b>AI/ML | Python Developer | Problem Solver</b>
 </p>
 
 <p align="center">
-  B.Tech CSIT @ RGPV University | Focused on AI, ML, Generative AI & Backend Systems
+  B.Tech CSIT @ RGPV University | Focused on AI, ML & Backend Systems
 </p>
 
 ---
@@ -17,21 +18,18 @@
 ## 🧠 About Me
 
 * 🎓 Computer Science (CSIT) Undergraduate
-* 🤖 Strong foundation in **Machine Learning, Deep Learning, NLP & Computer Vision**
-* 🚀 Building **end-to-end AI/ML and Generative AI applications**
-* 🧠 Experienced with **LLMs, RAG, AI Agents, Agentic AI & Multimodal AI**
-* ⚙️ Building backend systems using **Python & FastAPI**
-* ☁️ Deploying AI applications using **AWS EC2 & CI/CD**
+* 🤖 Strong foundation in **Machine Learning, Python & Data Handling**
+* 🚀 Building **end-to-end AI/ML projects (real-world problems)**
+* 📈 Learning **Generative AI, FastAPI & Model Deployment**
 
 ---
+
 
 ## ⚡ Tech Stack
 
 ### 🧑‍💻 Languages
-
 <table align="center">
 <tr>
-
 <td align="center" width="100">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55"/>
 <br>Python
@@ -46,7 +44,6 @@
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55"/>
 <br>SQL
 </td>
-
 </tr>
 </table>
 
@@ -56,7 +53,6 @@
 
 <table align="center">
 <tr>
-
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=sklearn" width="50"/>
 <br>Scikit-Learn
@@ -81,11 +77,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
 <br>Matplotlib
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center" width="100">
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/>
 <br>Seaborn
@@ -102,7 +96,7 @@
 </td>
 
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/python" width="50"/>
+<img src="https://cdn.simpleicons.org/jupyter" width="50"/>
 <br>NLP
 </td>
 
@@ -110,21 +104,6 @@
 <img src="https://cdn.simpleicons.org/python" width="50"/>
 <br>Deep Learning
 </td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="100">
-<img src="https://cdn.simpleicons.org/python" width="50"/>
-<br>Computer Vision
-</td>
-
-<td align="center" width="100">
-<img src="https://cdn.simpleicons.org/python" width="50"/>
-<br>Multimodal AI
-</td>
-
 </tr>
 </table>
 
@@ -161,40 +140,11 @@
 </td>
 
 </tr>
-
-<tr>
-
-<td align="center" width="100">
-<img src="https://cdn.simpleicons.org/langgraph" width="50"/>
-<br>LangGraph
-</td>
-
-<td align="center" width="100">
-<img src="https://cdn.simpleicons.org/openai" width="50"/>
-<br>LLMs
-</td>
-
-<td align="center" width="100">
-<img src="https://cdn.simpleicons.org/python" width="50"/>
-<br>MCP
-</td>
-
-<td align="center" width="100">
-<img src="https://cdn.simpleicons.org/python" width="50"/>
-<br>AI Agents
-</td>
-
-<td align="center" width="100">
-<img src="https://cdn.simpleicons.org/python" width="50"/>
-<br>Agentic AI
-</td>
-
-</tr>
 </table>
 
 <br>
 
-### 🚀 Tools, Cloud & CI/CD
+### 🚀 Tools & Frameworks
 
 <table align="center">
 <tr>
@@ -230,58 +180,34 @@
 </td>
 
 </tr>
-
-<tr>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=aws" width="50"/>
-<br>AWS
-</td>
-
-<td align="center" width="100">
-<img src="https://cdn.simpleicons.org/amazonaws" width="50"/>
-<br>EC2
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=githubactions" width="50"/>
-<br>GitHub Actions
-</td>
-
-<td align="center" width="100">
-<img src="https://cdn.simpleicons.org/python" width="50"/>
-<br>CI/CD
-</td>
-
-</tr>
 </table>
 
----
-
-## 🚀 Featured Projects
-
-### 📰 AI Fake News Detection System
-
-> NLP-based ML model to classify real vs fake news
-
-- 🔧 Tech: Python, NLP, Scikit-learn
-- 📊 Accuracy: High-performing classification model
-- 🌐 Live: https://ai-fake-news-detection-system-1-rtqy.onrender.com/
+## 🚀 Featured Projects  
 
 ---
 
-### 📊 E-commerce Sales Analytics Dashboard
+### 📰 AI Fake News Detection System  
+> NLP-based ML model to classify real vs fake news  
 
-> Interactive dashboard for business insights
+- 🔧 Tech: Python, NLP, Scikit-learn  
+- 📊 Accuracy: High-performing classification model  
+- 🌐 Live: https://ai-fake-news-detection-system-1-rtqy.onrender.com/  
 
-- 🔧 Tech: Pandas, Matplotlib, Streamlit
-- 📈 Features: Data visualization & trends
+
+---
+
+### 📊 E-commerce Sales Analytics Dashboard  
+> Interactive dashboard for business insights  
+
+- 🔧 Tech: Pandas, Matplotlib, Streamlit  
+- 📈 Features: Data visualization & trends  
 - 🌐 Live: https://ecommerce-sales-analytics-dashboard.onrender.com/
 
----
+
+
+--- 
 
 ### 🤖 AI Sentiment Analysis System
-
 > Deep Learning based sentiment analysis on 1.6M+ tweets
 
 - 🔧 Tech: Python, TensorFlow, BiLSTM, FastAPI
@@ -289,7 +215,6 @@
 - 🎯 Predicts Positive & Negative Sentiments
 - 🚀 End-to-End AI Application
 
----
 
 ## 📊 GitHub Stats
 
@@ -300,21 +225,25 @@
 
 ---
 
-## 📈 Recent Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanha165&theme=react-dark&days=30" />
-</p>
+## Recent Activity (Last 30 Days)
+
+
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kanha165&theme=react-dark&days=30)
+
+
 
 ---
 
 ## 🧠 Currently Learning
 
-* Advanced Agentic AI & Multi-Agent Systems
-* Advanced MCP & Tool Calling
-* LLM & RAG Evaluation
-* AI Observability & LLMOps
-* Advanced Multimodal AI
+* Generative AI & Large Language Models (LLMs)
+* LangChain & AI Agents
+* Vector Databases (FAISS, ChromaDB)
+* Model Deployment & MLOps
+* Advanced FastAPI
 
 ---
 
@@ -324,31 +253,25 @@
 * Build Production-Ready AI Systems
 * Contribute to Open Source AI Projects
 * Secure AI/ML Engineer Internship & Full-Time Role
-
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/kanha165">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/kanha-patidar-837421290/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:kanhapatidar7251@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/kanha165">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kanha-patidar-837421290/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:kanhapatidar7251@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
-
 ---
 
 ⭐ **Consistency + Projects + Skills = Growth 🚀**
+
+
