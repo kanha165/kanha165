@@ -269,11 +269,9 @@
 
 
 
-## 📈 Recent Activity
+## Recent Activity (Last 30 Days)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanha165&theme=react-dark&hide_border=true&area=true" width="95%" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kanha165&theme=react-dark&days=30)
 
 
 
