@@ -113,6 +113,8 @@
 
 <br>
 
+<br>
+
 ### 🧠 Generative AI & LLMs
 
 <table align="center">
@@ -148,7 +150,7 @@
 <tr>
 
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=langgraph" width="50"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/langgraph.svg" width="50"/>
 <br>LangGraph
 </td>
 
@@ -158,24 +160,22 @@
 </td>
 
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/python" width="50"/>
+<img src="https://cdn.simpleicons.org/robotframework" width="50"/>
 <br>AI Agents
 </td>
 
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/python" width="50"/>
+<img src="https://cdn.simpleicons.org/google" width="50"/>
 <br>Agentic AI
 </td>
 
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/python" width="50"/>
+<img src="https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/mcp-model-context-protocol.svg" width="50"/>
 <br>MCP
 </td>
 
 </tr>
 </table>
-
-<br>
 
 ### 🚀 Tools & Frameworks
 
