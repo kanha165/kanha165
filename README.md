@@ -139,6 +139,12 @@
 <br>RAG
 </td>
 
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=langgraph" width="50"/>
+<br>LangGraph
+</td>
+
+
 </tr>
 </table>
 
